@@ -1,5 +1,5 @@
 # Banking-Application
-~ Door to Door Bank service created by the Members of group 4 while doing their Challenging Task
+~ Door to Door Bank service...
 
 Modules needed to import , install using pip :
 
